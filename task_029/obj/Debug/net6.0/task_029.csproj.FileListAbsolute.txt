@@ -1,0 +1,15 @@
+C:\Projects\qa\языки_программирования\programmingpractice4\task_029\bin\Debug\net6.0\task_029.exe
+C:\Projects\qa\языки_программирования\programmingpractice4\task_029\bin\Debug\net6.0\task_029.deps.json
+C:\Projects\qa\языки_программирования\programmingpractice4\task_029\bin\Debug\net6.0\task_029.runtimeconfig.json
+C:\Projects\qa\языки_программирования\programmingpractice4\task_029\bin\Debug\net6.0\task_029.dll
+C:\Projects\qa\языки_программирования\programmingpractice4\task_029\bin\Debug\net6.0\task_029.pdb
+C:\Projects\qa\языки_программирования\programmingpractice4\task_029\obj\Debug\net6.0\task_029.csproj.AssemblyReference.cache
+C:\Projects\qa\языки_программирования\programmingpractice4\task_029\obj\Debug\net6.0\task_029.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\qa\языки_программирования\programmingpractice4\task_029\obj\Debug\net6.0\task_029.AssemblyInfoInputs.cache
+C:\Projects\qa\языки_программирования\programmingpractice4\task_029\obj\Debug\net6.0\task_029.AssemblyInfo.cs
+C:\Projects\qa\языки_программирования\programmingpractice4\task_029\obj\Debug\net6.0\task_029.csproj.CoreCompileInputs.cache
+C:\Projects\qa\языки_программирования\programmingpractice4\task_029\obj\Debug\net6.0\task_029.dll
+C:\Projects\qa\языки_программирования\programmingpractice4\task_029\obj\Debug\net6.0\refint\task_029.dll
+C:\Projects\qa\языки_программирования\programmingpractice4\task_029\obj\Debug\net6.0\task_029.pdb
+C:\Projects\qa\языки_программирования\programmingpractice4\task_029\obj\Debug\net6.0\task_029.genruntimeconfig.cache
+C:\Projects\qa\языки_программирования\programmingpractice4\task_029\obj\Debug\net6.0\ref\task_029.dll
